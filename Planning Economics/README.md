@@ -2,7 +2,7 @@
 
 ## COURSE OUTLINES
 
-- [Introduction]()
+- [Introduction](https://github.com/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/Python%20for%20Economics%20-%20Introduction%20-%20ATU%20-%20spr%202022.pdf)
 - Python Setup
 - [Object and Data Structure Basics]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari)
 
