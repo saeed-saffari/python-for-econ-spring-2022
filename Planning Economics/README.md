@@ -6,7 +6,7 @@
 - Python Setup
 - [Object and Data Structure Basics](https://github.com/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/1.%20Data%20Structure%20Basic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/1.%20Data%20Structure%20Basic.ipynb)
 
-- [Python Statements and Functions]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+- [Python Statements and Functions](https://github.com/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb)
 
 - Packages:
   - [NumPy and Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
