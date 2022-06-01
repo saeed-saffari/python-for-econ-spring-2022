@@ -9,7 +9,8 @@
 - [Python Statements and Functions](https://github.com/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb)
 
 - Packages:
-  - [NumPy and Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [NumPy](https://github.com/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/3.%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/3.%20NumPy.ipynb)
+  - [Pandas](https://github.com/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/4.%20Pandas%2001.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/python-for-econ-spring-2022/blob/main/Planning%20Economics/4.%20Pandas%2001.ipynb)
 
 - [Economic planning with real data ]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
 
